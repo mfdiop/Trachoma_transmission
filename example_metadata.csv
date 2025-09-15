@@ -1,0 +1,4 @@
+sample_id,village,latitude,longitude,collection_date,individual_id
+Sample_001,Village_A,-6.1659,35.7516,2024-01-15,IND_001
+Sample_002,Village_A,-6.166,35.7517,2024-01-20,IND_002
+Sample_003,Village_B,-6.7924,39.2083,2024-02-01,IND_003

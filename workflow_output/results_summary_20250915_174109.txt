@@ -1,0 +1,21 @@
+Genomic Transmission Dynamics Analysis Results
+==================================================
+
+Analysis Date: 2025-09-15 17:41:09
+Configuration: COVID-19 parameters
+
+Data Summary:
+  Samples: 3
+  Villages: 2
+  Average spatial distance: 258.81 km
+  Average genomic distance: 0.00 substitutions
+  Spatial-genomic correlation: nan
+
+Simulation Results:
+  Final infected: 2/3
+  Attack rate: 66.7%
+
+Network Analysis:
+  Nodes: 3
+  Edges: 2
+  Network density: 0.333
